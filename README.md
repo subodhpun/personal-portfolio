@@ -1,14 +1,14 @@
 # React JS Portfolio Website
 
-[🔗Live Demo🔗](https://rtaghizadev.vercel.app/)
+[🔗Live Demo🔗]()
 
 ![Protfolio Website](src/assets/Portfolio%20preview.png)
 
-<div align="center">
+<!-- <div align="center">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Rasif-Taghizada/My-portfolio?color=yellow)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-</div>
-
+</div> -->
+<!-- 
 <table align="center">
     <thead align="center">
         <tr border: 1px;>
@@ -30,7 +30,7 @@
            <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Rasif-Taghizada/My-portfolio?style=flat&color=critical&logo=github"/></td>
         </tr>
     </tbody>
-</table>
+</table> -->
 
 <br/>
 
@@ -59,7 +59,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
 <br />
-Feel free to contribute to this repo.
+<!-- Feel free to contribute to this repo.
 
 ### Show some ❤️&nbsp; by giving the star :star: to this repository!!
-<h1 align=center> 🧠 Happy Hacking 🧠 </h1>
+<h1 align=center> 🧠 Happy Hacking 🧠 </h1> -->
