@@ -18,9 +18,13 @@
 }
 
 .portfolio__item-image {
-    border-radius: 1.5rem;
+    border-radius: 1.25rem;
     overflow: hidden;
     height: 30%;
+}
+
+.portfolio__item-image img{
+    height: 100%;
 }
 
 .portfolio__item h3 {
@@ -40,6 +44,7 @@
 
 .portfolio__item-content {
     height: 40%;
+    margin-bottom: 2.3rem;
 }
 
 @media screen and (max-width: 1024px){
