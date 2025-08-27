@@ -3,6 +3,7 @@ import "./portfolio.css";
 import IMG1 from "../../assets/Khusilaw.png";
 import IMG3 from "../../assets/weather app.png";
 import IMG4 from "../../assets/Portfolio preview.png";
+import IMG from "../../assets/subodhmart.png";
 
 import React from "react";
 
@@ -10,27 +11,37 @@ import React from "react";
 const Portfolio = () => {
   const soloProjects = [
     {
+      id: 1,
+      title: "Law Firm Website.js",
+      img: IMG1,
+      description:
+      "It is a law firm website using ReactJS, featuring intuitive navigation, service descriptions, attorney profiles, and contact forms. ",
+      technologies: "Html | CSS | Javascript | React Js",
+      link: "https://khusilawgroup.netlify.app/",
+      github: "https://github.com/subodhpun/Paragon-Law-Associates-New",
+    },
+    {
       id: 2,
       title: "Personal Portfolio",
       img: IMG4,
       description:
         "A modern personal portfolio built with HTML, CSS, JavaScript, and React, showcasing my skills and projects with a responsive and user-friendly design",
       technologies: "HTML | CSS | JavaScript | Reactjs",
-      link: "https://fh-huquq-com.vercel.app/",
+      link: "https://subodhpun.com.np/",
       github: "https://github.com/subodhpun/personal-portfolio",
     },
     {
-      id: 1,
-      title: "Law Firm Website.js",
-      img: IMG1,
-      description:
-        "It is a law firm website using ReactJS, featuring intuitive navigation, service descriptions, attorney profiles, and contact forms. ",
-      technologies: "Html | CSS | Javascript | React Js",
-      link: "https://khusilawgroup.netlify.app/",
-      github: "https://github.com/subodhpun/Paragon-Law-Associates-New",
-    },
-    {
       id: 3,
+      title: "E-Commerce Website",
+      img: IMG,
+      description:
+        "A fully functional e-commerce website built with ReactJS, featuring product listings, responsive design, dynamic routing, and smooth user experience for browsing and shopping online.",
+      technologies: "HTML | CSS | JavaScript | ReactJS",
+      link: "https://fh-huquq-com.vercel.app/",
+      github: "https://github.com/subodhpun/personal-portfolio",
+    },    
+    {
+      id: 4,
       title: "Weather-App",
       img: IMG3,
       description: "It fetches real-time weather data from an API, displays current weather conditions, and provides a user-friendly interface for checking forecasts",
