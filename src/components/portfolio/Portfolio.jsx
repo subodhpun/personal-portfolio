@@ -1,6 +1,6 @@
 import "./portfolio.css";
 
-import IMG1 from "../../assets/paragonlaw.png";
+import IMG1 from "../../assets/Khusilaw.png";
 import IMG3 from "../../assets/weather app.png";
 import IMG4 from "../../assets/Portfolio preview.png";
 
@@ -17,7 +17,7 @@ const Portfolio = () => {
         "A modern personal portfolio built with HTML, CSS, JavaScript, and React, showcasing my skills and projects with a responsive and user-friendly design",
       technologies: "HTML | CSS | JavaScript | Reactjs",
       link: "https://fh-huquq-com.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/fh-huquq.com",
+      github: "https://github.com/subodhpun/personal-portfolio",
     },
     {
       id: 1,
@@ -26,8 +26,8 @@ const Portfolio = () => {
       description:
         "It is a law firm website using ReactJS, featuring intuitive navigation, service descriptions, attorney profiles, and contact forms. ",
       technologies: "Html | CSS | Javascript | React Js",
-      link: "https://paragonlawassociates.netlify.app/",
-      github: "https://github.com/Rasif-Taghizada/Educational-Website-ReactJs",
+      link: "https://khusilawgroup.netlify.app/",
+      github: "https://github.com/subodhpun/Paragon-Law-Associates-New",
     },
     {
       id: 3,
